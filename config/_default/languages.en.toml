@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Jaxp42"
+title = "@JoseSimon"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "Jaxp42"
  [author]
    name = "Jose Simon"
    image = "images/profile.jpg"
-   headline = "Counting bugs"
+   headline = "Probably in a coffee break"
 #   bio = "A little bit about you"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
